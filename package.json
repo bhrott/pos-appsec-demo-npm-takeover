@@ -17,5 +17,8 @@
     "url": "https://github.com/bhrott/pos-appsec-demo-npm-takeover/issues"
   },
   "homepage": "https://github.com/bhrott/pos-appsec-demo-npm-takeover#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "external-package": "file:external-package"
+  }
 }
